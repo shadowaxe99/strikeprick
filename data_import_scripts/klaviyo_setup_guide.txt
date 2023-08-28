@@ -1,0 +1,19 @@
+Import Email List into Klaviyo
+
+To import an email list into Klaviyo, you can use the Klaviyo API to programmatically add each email address to your Klaviyo account. Here is a code snippet in Python that demonstrates how to import an email list into Klaviyo:
+
+Make sure to replace "YOUR\_API\_KEY" with your actual Klaviyo API key and "YOUR\_LIST\_ID" with the ID of the list where you want to import the emails. Also, update the emails list with the actual email addresses you want to import.
+
+This code snippet uses the requests library to make an HTTP POST request to the Klaviyo API endpoint for adding members to a list. The email addresses are provided in the request payload as a list of profiles. The response from the API is checked for the status code to determine if the import was successful.
+
+Please note that this code snippet assumes you have already set up the necessary API key and permissions in your Klaviyo account.
+
+Import Email List into Klaviyo
+
+To import an email list into Klaviyo, you can use the Klaviyo API to programmatically add each email address to your Klaviyo account. Here is a code snippet in Python that demonstrates how to import an email list into Klaviyo:
+
+Make sure to replace "YOUR\_API\_KEY" with your actual Klaviyo API key and "YOUR\_LIST\_ID" with the ID of the list where you want to import the emails. Also, update the emails list with the actual email addresses you want to import.
+
+This code snippet uses the requests library to make an HTTP POST request to the Klaviyo API endpoint for adding members to a list. The email addresses are provided in the request payload as a list of profiles. The response from the API is checked for the status code to determine if the import was successful.
+
+Please note that this code snippet assumes you have already set up the necessary API key and permissions in your Klaviyo account.
