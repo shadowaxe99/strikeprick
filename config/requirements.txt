@@ -1,2 +1,2 @@
 Django==3.2.7
-Celery==5.2.1
+Celery==5.2.2
